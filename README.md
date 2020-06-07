@@ -1,4 +1,4 @@
-# Red Wine Quality Logistin Regression
+# Red Wine Quality Logistic Regression
 
 Classification of Red wine (Good or Bad) Using logistic regression
 
